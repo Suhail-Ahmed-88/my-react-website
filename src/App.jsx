@@ -52,8 +52,8 @@ function App() {
       {/* Contact Section */}
       <section id="contact" className="section">
         <h2>Contact</h2>
-
-        <p>Email: example@email.com</p>
+        <p>Name: Suhail Ahmed Sindhi</p>
+        <p>Email: suhailahmedsindhi@gmail.com</p>
       </section>
 
       {/* Footer */}
